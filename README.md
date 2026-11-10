@@ -9,15 +9,15 @@
 </picture>
 
 <a href="https://github.com/PolonioDev/fastycrypt"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/mag-case?username=poloniodev&i=1&r=fastycrypt&mode=light" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/mag-case?username=poloniodev&i=0&r=fastycrypt&mode=light" />
   <img src="https://www.gitskins.com/api/section/mag-case?username=poloniodev&i=1&r=fastycrypt&mode=dark" width="100%" alt="fastycrypt: An Wrapper for NaCl Encrypting library. Easy to Learn and Easy to use." />
 </picture></a>
 <a href="https://github.com/PolonioDev/MultiLayerPerceptronCsharp"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/mag-case?username=poloniodev&i=2&r=MultiLayerPerceptronCsharp&mode=light" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/mag-case?username=poloniodev&i=1&r=MultiLayerPerceptronCsharp&mode=light" />
   <img src="https://www.gitskins.com/api/section/mag-case?username=poloniodev&i=2&r=MultiLayerPerceptronCsharp&mode=dark" width="100%" alt="MultiLayerPerceptronCsharp:  This is an easy and powerful multi-layer perceptron written in C#" />
 </picture></a>
 <a href="https://github.com/PolonioDev/PluginArch"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/mag-case?username=poloniodev&i=0&r=PluginArch&mode=light" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/mag-case?username=poloniodev&i=2&r=PluginArch&mode=light" />
   <img src="https://www.gitskins.com/api/section/mag-case?username=poloniodev&i=0&r=PluginArch&mode=dark" width="100%" alt="PluginArch: " />
 </picture></a>
 
