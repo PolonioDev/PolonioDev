@@ -1,31 +1,49 @@
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/mag-cover?username=poloniodev&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F18697617%3Fu%3D3a927941760c3c6e08b304164160ba1ff0b4494b%26v%3D4&mode=light" />
-  <img src="https://www.gitskins.com/api/section/mag-cover?username=poloniodev&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F18697617%3Fu%3D3a927941760c3c6e08b304164160ba1ff0b4494b%26v%3D4&mode=dark" width="100%" alt="PolonioDev: I am a web developer for backend. I've been programming since 2012. My specialty work is web automation and REST API realization" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/poloniodev-banner.png">
+  <img src="./assets/poloniodev-banner.gif" width="100%" alt="PolonioDev · Backend, APIs REST y automatización web">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/mag-shelf?username=poloniodev&mode=light" />
-  <img src="https://www.gitskins.com/api/section/mag-shelf?username=poloniodev&mode=dark" width="100%" alt="Things I built" />
-</picture>
+Soy **PolonioDev**. Programo desde 2012 y me especializo en desarrollo backend, diseño de APIs REST y automatización web.
 
-<a href="https://github.com/PolonioDev/fastycrypt"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/mag-case?username=poloniodev&i=0&r=fastycrypt&mode=light" />
-  <img src="https://www.gitskins.com/api/section/mag-case?username=poloniodev&i=1&r=fastycrypt&mode=dark" width="100%" alt="fastycrypt: An Wrapper for NaCl Encrypting library. Easy to Learn and Easy to use." />
-</picture></a>
-<a href="https://github.com/PolonioDev/MultiLayerPerceptronCsharp"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/mag-case?username=poloniodev&i=1&r=MultiLayerPerceptronCsharp&mode=light" />
-  <img src="https://www.gitskins.com/api/section/mag-case?username=poloniodev&i=2&r=MultiLayerPerceptronCsharp&mode=dark" width="100%" alt="MultiLayerPerceptronCsharp:  This is an easy and powerful multi-layer perceptron written in C#" />
-</picture></a>
-<a href="https://github.com/PolonioDev/PluginArch"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/mag-case?username=poloniodev&i=2&r=PluginArch&mode=light" />
-  <img src="https://www.gitskins.com/api/section/mag-case?username=poloniodev&i=0&r=PluginArch&mode=dark" width="100%" alt="PluginArch: " />
-</picture></a>
+[Ver proyectos destacados](#proyectos-destacados) · [Todos mis repositorios](https://github.com/PolonioDev?tab=repositories)
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/mag-langs?username=poloniodev&mode=light" />
-  <img src="https://www.gitskins.com/api/section/mag-langs?username=poloniodev&mode=dark" width="100%" alt="Most used: TypeScript 63%, C# 33%, JavaScript 4%" />
-</picture>
+## Proyectos destacados
 
-**Elsewhere:** <a href="https://github.com/poloniodev">GitHub</a>
+### [FastyCrypt](https://github.com/PolonioDev/fastycrypt)
 
-<sub>Magazine · made with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
+Una biblioteca en **TypeScript** que simplifica el cifrado simétrico y de clave pública, así como la firma y verificación de documentos. Está construida sobre **TweetNaCl.js**.
+
+[Ver documentación](https://github.com/PolonioDev/fastycrypt#readme) · [Ver en npm](https://www.npmjs.com/package/fastycrypt)
+
+<details>
+<summary><strong>FastyCrypt</strong> · Ver instalación y funciones</summary>
+
+```sh
+npm install fastycrypt
+```
+
+- Cifrado con una clave compartida o con un par de claves pública y privada.
+- Firma y verificación de documentos.
+- Manejo de valores JSON en la interfaz de cifrado.
+
+</details>
+
+---
+
+<details>
+<summary><strong>PluginArch</strong> · TypeScript · Arquitectura de plugins</summary>
+
+Un núcleo de arquitectura de plugins basado en eventos para aplicaciones extensibles. El proyecto está en desarrollo.
+
+[Ver código](https://github.com/PolonioDev/PluginArch) · [Ver en npm](https://www.npmjs.com/package/pluginarch)
+
+</details>
+
+<details>
+<summary><strong>MultiLayerPerceptronCsharp</strong> · C# · Redes neuronales</summary>
+
+Una implementación de un perceptrón multicapa en C#.
+
+[Explorar el código](https://github.com/PolonioDev/MultiLayerPerceptronCsharp)
+
+</details>
