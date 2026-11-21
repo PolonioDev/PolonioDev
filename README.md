@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/poloniodev-banner_062020112026.png">
-  <img src="./assets/poloniodev-banner.gif" width="100%" alt="Fernando Martinez, Software Engineer. Retrato ilustrado rodeado de órbitas en azul eléctrico.">
+  <img src="./assets/poloniodev-banner_062020112026.gif" width="100%" alt="Fernando Martinez, Software Engineer. Retrato ilustrado rodeado de órbitas en azul eléctrico.">
 </picture>
 
 ## Sobre mí
